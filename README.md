@@ -23,4 +23,5 @@ O aplicativo apresenta as seguintes seções de informação:
 * **JavaScript / TypeScript:** Lógica da aplicação.
 * **CSS in JS:** Estilização de componentes via StyleSheet.
 
-## 💻 Desenvolvido por **Thiago Vinícius**
+## 💻 Autor
+Projeto desenvolvido por **Thiago Vinícius**
